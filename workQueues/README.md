@@ -52,6 +52,8 @@ To stop the consumer, press CTRL+C in the terminal.
 
 🎯 Next Steps
 
-    Experiment with multiple consumers.
-    Try different RabbitMQ exchange types.
-    Use persistent messaging to ensure messages survive restarts.
+Experiment with multiple consumers.
+
+Try different RabbitMQ exchange types.
+
+Use persistent messaging to ensure messages survive restarts.
